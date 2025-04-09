@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    
+}
+
+.section-1{
+    display: flex;
+    background-color: #1f2937;
+    color: #f9Faf8;
+    
+}
+
+.links{
+    display: flex;
+    
+}
+
+.container{
+    
+}
+
+
+.header{
+    
+}
+
+.section-3{
+    
+}
+
+.section-4{
+    
+}
