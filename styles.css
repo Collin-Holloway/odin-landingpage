@@ -10,6 +10,7 @@
     background-color: #1f2937;
     color: #f9Faf8;
     justify-content: space-around;
+    gap: 700px;
 }
 
 .links{
@@ -26,12 +27,15 @@
     align-items: start;
     flex: 1;
     align-items: center;
+    padding-top: 100px;
+    
     
 }
 
 .image-area{
-    background-color: green;
-    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    
 }
 .header{
     
